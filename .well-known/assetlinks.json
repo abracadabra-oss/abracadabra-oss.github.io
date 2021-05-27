@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.shazzlepay.pay",
+    "sha256_cert_fingerprints":
+    ["94:47:41:B6:40:E0:D6:15:E8:CC:65:2B:31:49:B9:12:B5:4B:DE:8C:4E:75:5C:A8:B1:68:06:26:72:48:10:41"]
+  }
+}]
